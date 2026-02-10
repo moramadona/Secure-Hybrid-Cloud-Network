@@ -1,4 +1,5 @@
 # ☁️ Secure Hybrid Cloud Infrastructure Project
+![Network Topology](01_Architecture/image_114353.png)
 
 ## 🎯 Objective
 To build a secure and scalable network that simulates connecting an on-premise office to cloud-based servers using Cisco technologies.
@@ -13,4 +14,4 @@ To build a secure and scalable network that simulates connecting an on-premise o
 * **Ping Test:** VLAN 30 (Users) cannot ping VLAN 20 (Servers) due to ACL 110.
 * **Web Test:** VLAN 30 can access the Web Server on Port 80.
 * **Connectivity:** All VLANs can access external networks via NAT.
-![Network Topology](01_Architecture/image_114353.png)
+
