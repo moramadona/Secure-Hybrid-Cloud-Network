@@ -1,5 +1,5 @@
 # ☁️ Secure Hybrid Cloud Infrastructure Project
-![Network Topology](01_Architecture/image_114353.png)
+![Network Topology](./01_Architecture/Topology.png.PNG)
 
 ## 🎯 Objective
 To build a secure and scalable network that simulates connecting an on-premise office to cloud-based servers using Cisco technologies.
